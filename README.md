@@ -18,7 +18,6 @@ Iconic view of SCD2 implementation on employees table
 
 
 <img width="458" alt="image" src="https://user-images.githubusercontent.com/100192179/155974478-1ca80440-0642-4e0d-b174-e2daff13c980.png">
-<img width="482" alt="image" src="https://user-images.githubusercontent.com/100192179/155974792-8bef44be-ae58-4f73-8b5a-2c7bf31ded6b.png">
 
 <img width="454" alt="image" src="https://user-images.githubusercontent.com/100192179/155974591-90b27ebc-d840-49e9-b68e-b2b76ff07a9d.png">
 
